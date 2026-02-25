@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ej-appliance-service-43152.pages.dev/sitemap.xml
