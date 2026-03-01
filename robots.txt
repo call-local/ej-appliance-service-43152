@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ej-appliance-service-43152.pages.dev/sitemap.xml
+Sitemap: https://call-local.github.io/ej-appliance-service-43152/sitemap.xml
